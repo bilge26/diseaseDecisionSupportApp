@@ -1,1 +1,3 @@
-# BSM201_BilgeYildirim_ZeynepBasocak
+# BSM201 Proje
+# Proje Konusu:
+# Ekip Üyeleri: Bilge Yıldırım(210101059) & Zeynep Başocak(210101051)
